@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgajangi
+- 👋 Hi, I’m Manideep from Hyderabad,India
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning with pythin
 - 💞️ I’m looking to collaborate on different projects of Machine Learning
